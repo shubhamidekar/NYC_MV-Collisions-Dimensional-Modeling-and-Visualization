@@ -11,6 +11,7 @@ This project utilizes the NYC Motor Vehicles Collision dataset, consisting of th
 ### Part 2: Data Integration and Transformation
 - Various data integration tasks were performed using Talend, including data cleaning, handling data types, managing null values, converting date formats, and allocating surrogate keys for dimensions.
 - The result includes the creation of 5 facts, 23 dimensions, and an error handling table.
+- Error handling table captures the bad data of people's age containing values below 0 and above 100.
 
 ### Part 3: Data Visualization with Power BI and Tableau
 - Visualization of insights from the NYC collisions dataset was carried out using Power BI and Tableau.
