@@ -2,6 +2,8 @@
 
 This project utilizes the NYC Motor Vehicles Collision dataset, consisting of three tables (MV_Vehicles, MV_Persons, and MV_Collisions). The data is sourced from Google Cloud Platform's BigQuery using an access key. The project involves a comprehensive three-part process:
 
+![image](https://github.com/shubhamidekar/NYC_MV-Collisions-Dimensional-Modeling-and-Visualization/assets/114885651/f63dc26a-3537-4a9a-b9ca-868af9692c64)
+
 ### Part 1: Data Profiling and Staging
 - Data profiling was conducted using Alteryx's basic data profile component, involving careful data validation and in-depth profiling. The objective was to understand the data thoroughly before applying transformations.
 - The dataset was loaded into SQL Server as stage tables, laying the foundation for subsequent transformations.
